@@ -1,0 +1,101 @@
+{
+    "english_words_url": "https://www.englishspeak.com/vi/english-words?category_key=",
+    "english_phrases_url": "https://www.englishspeak.com/vi/english-phrases?category_key=",
+    "categories": [
+      {
+        "title": "Common expressions",
+        "title_vn": "Những thành ngữ thông dụng",
+        "category_id": 1
+      },
+      {
+        "title": "Greetings",
+        "title_vn": "Chào hỏi",
+        "category_id": 2
+      },
+      {
+        "title": "Travel, directions",
+        "title_vn": "Du lịch, phương hướng",
+        "category_id": 3
+      },
+      {
+        "title": "Numbers and money",
+        "title_vn": "Con số và tiền bạc",
+        "category_id": 4
+      },
+      {
+        "title": "Location",
+        "title_vn": "Địa điểm",
+        "category_id": 5
+      },
+      {
+        "title": "Phone/internet/mail",
+        "title_vn": "Điện thoại/internet/thư",
+        "category_id": 6
+      },
+      {
+        "title": "Time and dates",
+        "title_vn": "Thời gian và ngày tháng",
+        "category_id": 7
+      },
+      {
+        "title": "Accommodations",
+        "title_vn": "Chỗ ăn ở",
+        "category_id": 8
+      },
+      {
+        "title": "Dining",
+        "title_vn": "Ăn",
+        "category_id": 9
+      },
+      {
+        "title": "Making friends",
+        "title_vn": "Kết bạn",
+        "category_id": 10
+      },
+      {
+        "title": "Entertainment",
+        "title_vn": "Giải Trí",
+        "category_id": 11
+      },
+      {
+        "title": "Shopping",
+        "title_vn": "Mua sắm",
+        "category_id": 12
+      },
+      {
+        "title": "Communication difficulties",
+        "title_vn": "Khó khăn giao tiếp",
+        "category_id": 13
+      },
+      {
+        "title": "Emergency and health",
+        "title_vn": "Trường hợp khẩn cấp và sức khỏe",
+        "category_id": 14
+      },
+      {
+        "title": "Cultural expressions/terms",
+        "title_vn": "Từ vựng và thành ngữ văn hóa",
+        "category_id": 15
+      },
+      {
+        "title": "General questions",
+        "title_vn": "Những câu hỏi thông thường",
+        "category_id": 16
+      },
+      {
+        "title": "Work",
+        "title_vn": "Việc làm",
+        "category_id": 17
+      },
+      {
+        "title": "Weather",
+        "title_vn": "Thời tiết",
+        "category_id": 18
+      },
+      {
+        "title": "Verbs",
+        "title_vn": "Động từ",
+        "category_id": 19
+      }
+    ]
+}
